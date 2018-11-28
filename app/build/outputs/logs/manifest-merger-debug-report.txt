@@ -1,0 +1,131 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:8:22-69
+application
+ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:10:5-32:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\bpn18\.android\build-cache\faafa554ff9b46477b887bf45747161224721199\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\bpn18\.android\build-cache\a4a741d6e3d31dbd74285fdff4a8a9f67372f07c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bpn18\.android\build-cache\f40dc43ce9e32838368ec26bab33c69674df8c80\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bpn18\.android\build-cache\fd19374d2aed5debe9b63cf1e94c0ce671be3818\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bpn18\.android\build-cache\53a1742dbf35d470797f31dc0c5065a56be9b721\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\bpn18\.android\build-cache\25a1ed7ed2c5da5b0429236d9178d2362020f166\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\bpn18\.android\build-cache\a7ea3cae5bc0046e5424840617d3b8cca0100a56\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bpn18\.android\build-cache\2b26d635191c095d6a3899613a03fd96036910e5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bpn18\.android\build-cache\00335eca4e34ca798685954add8d3094558eb7f8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bpn18\.android\build-cache\d4b82c67e7fae5415564a852a628e59f9e8183e1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bpn18\.android\build-cache\05183696e378bb8ed149362838d7a289064828c8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bpn18\.android\build-cache\46ffabbda3c4f7fb45e96515e2fc276f7a26c3cb\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:15:9-35
+	android:roundIcon
+		ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:14:9-54
+	android:allowBackup
+		ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.bpn18.myapp.MainActivity
+ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:17:9-20:59
+	android:label
+		ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:19:13-45
+	android:theme
+		ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:20:13-56
+	android:name
+		ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:18:13-41
+activity#com.example.bpn18.myapp.loginactivity
+ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:21:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.example.bpn18.myapp.RegisterActivity
+ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:28:9-54
+	android:name
+		ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:28:19-51
+activity#com.example.bpn18.myapp.DetailActivity
+ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:29:9-52
+	android:name
+		ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:29:19-49
+activity#com.example.bpn18.myapp.UserListActivity
+ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:30:9-54
+	android:name
+		ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:30:19-51
+activity#com.example.bpn18.myapp.userlistviewActivity
+ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:31:9-67
+	android:name
+		ADDED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml:31:19-55
+uses-sdk
+INJECTED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\bpn18\.android\build-cache\faafa554ff9b46477b887bf45747161224721199\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\bpn18\.android\build-cache\a4a741d6e3d31dbd74285fdff4a8a9f67372f07c\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bpn18\.android\build-cache\f40dc43ce9e32838368ec26bab33c69674df8c80\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bpn18\.android\build-cache\fd19374d2aed5debe9b63cf1e94c0ce671be3818\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bpn18\.android\build-cache\53a1742dbf35d470797f31dc0c5065a56be9b721\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\bpn18\.android\build-cache\1a17cfcb8de2509a2ce8e0b2e326574b4d4df4e1\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\bpn18\.android\build-cache\25a1ed7ed2c5da5b0429236d9178d2362020f166\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\bpn18\.android\build-cache\a7ea3cae5bc0046e5424840617d3b8cca0100a56\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bpn18\.android\build-cache\2b26d635191c095d6a3899613a03fd96036910e5\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bpn18\.android\build-cache\00335eca4e34ca798685954add8d3094558eb7f8\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bpn18\.android\build-cache\d4b82c67e7fae5415564a852a628e59f9e8183e1\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bpn18\.android\build-cache\05183696e378bb8ed149362838d7a289064828c8\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bpn18\.android\build-cache\46ffabbda3c4f7fb45e96515e2fc276f7a26c3cb\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\bpn18\.android\build-cache\a4a741d6e3d31dbd74285fdff4a8a9f67372f07c\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\1usable app\12345\Myapp\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\bpn18\.android\build-cache\a4a741d6e3d31dbd74285fdff4a8a9f67372f07c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bpn18\.android\build-cache\f40dc43ce9e32838368ec26bab33c69674df8c80\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bpn18\.android\build-cache\fd19374d2aed5debe9b63cf1e94c0ce671be3818\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bpn18\.android\build-cache\53a1742dbf35d470797f31dc0c5065a56be9b721\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\bpn18\.android\build-cache\1a17cfcb8de2509a2ce8e0b2e326574b4d4df4e1\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\bpn18\.android\build-cache\25a1ed7ed2c5da5b0429236d9178d2362020f166\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\bpn18\.android\build-cache\a7ea3cae5bc0046e5424840617d3b8cca0100a56\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bpn18\.android\build-cache\2b26d635191c095d6a3899613a03fd96036910e5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bpn18\.android\build-cache\00335eca4e34ca798685954add8d3094558eb7f8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bpn18\.android\build-cache\d4b82c67e7fae5415564a852a628e59f9e8183e1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bpn18\.android\build-cache\05183696e378bb8ed149362838d7a289064828c8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bpn18\.android\build-cache\46ffabbda3c4f7fb45e96515e2fc276f7a26c3cb\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\bpn18\.android\build-cache\a4a741d6e3d31dbd74285fdff4a8a9f67372f07c\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\bpn18\.android\build-cache\a4a741d6e3d31dbd74285fdff4a8a9f67372f07c\output\AndroidManifest.xml:26:9-47

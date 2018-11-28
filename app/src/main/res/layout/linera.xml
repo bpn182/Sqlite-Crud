@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/login"
+        android:hint="Login"
+        android:textSize="20sp"
+        android:padding="10dp"
+        android:layout_height="40dp"
+        android:layout_width="match_parent"
+        android:textAlignment="center"
+        android:background="@color/colorAccent"
+        />
+    <EditText
+        android:id="@+id/uname"
+        android:layout_margin="10dp"
+        android:hint="username"
+        android:textSize="20sp"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        />
+    <EditText
+        android:id="@+id/Upassword"
+        android:layout_margin="10dp"
+        android:hint="password"
+        android:textSize="20sp"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal"
+        >
+
+
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Login"
+        android:layout_margin="10dp"
+        android:layout_below="@id/password"
+        android:layout_weight="1"
+        />
+        <Button
+            android:id="@+id/Lbotton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Register"
+            android:layout_margin="10dp"
+            android:layout_below="@id/password"
+            android:layout_weight="1"
+            />
+    </LinearLayout>
+    <TextView
+        android:id="@+id/view"
+        android:hint="forgot password ?"
+        android:textSize="20sp"
+        android:padding="10dp"
+        android:layout_height="40dp"
+        android:layout_width="match_parent"
+        android:textAlignment="center"
+
+        />
+</LinearLayout>
